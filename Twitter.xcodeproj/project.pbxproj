@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E08812B2636716D00D60E39 /* TweetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E08812A2636716D00D60E39 /* TweetView.swift */; };
 		2E0D5611262D277E00FAE836 /* loginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D5610262D277E00FAE836 /* loginViewController.swift */; };
 		2E0D5614262D2C9500FAE836 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D5613262D2C9500FAE836 /* HomeTableViewController.swift */; };
 		2E0D5617262D334B00FAE836 /* tweetCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D5616262D334B00FAE836 /* tweetCell.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E08812A2636716D00D60E39 /* TweetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetView.swift; sourceTree = "<group>"; };
 		2E0D5610262D277E00FAE836 /* loginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginViewController.swift; sourceTree = "<group>"; };
 		2E0D5613262D2C9500FAE836 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		2E0D5616262D334B00FAE836 /* tweetCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tweetCell.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				2E0D5610262D277E00FAE836 /* loginViewController.swift */,
 				2E0D5613262D2C9500FAE836 /* HomeTableViewController.swift */,
 				2E0D5616262D334B00FAE836 /* tweetCell.swift */,
+				2E08812A2636716D00D60E39 /* TweetView.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				2E0D5614262D2C9500FAE836 /* HomeTableViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
+				2E08812B2636716D00D60E39 /* TweetView.swift in Sources */,
 				2E0D5611262D277E00FAE836 /* loginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
